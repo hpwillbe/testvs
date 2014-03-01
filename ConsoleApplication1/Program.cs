@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Git is in!");
+            // testing some updates
         }
     }
 }
